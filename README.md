@@ -18,16 +18,16 @@ Leveraging my background in **Mathematics and Statistics**, I modeled 52 weeks o
 ### Platform Validation
 Data was extracted and validated using the **NIQ Byzzer** retail analytics platform.
 
-![NIQ Byzzer Dashboard](Byzzer_Trend_Report_Visual_Dashboard8.png)
+![NIQ Byzzer Dashboard](images/Byzzer_Trend_Report_Visual_Dashboard8.png)
 
-![NIQ Byzzer Setup](final_report_parameters_review7.png)
+![NIQ Byzzer Setup](images/final_report_parameters_review7.png)
 
 ### Visual Analysis (Excel)
 The analysis identified a massive **+296.2% growth peak** in mid-June and a **44% seasonal decline** in shelf productivity by January.
 
-![Weekly Sales Growth](SALES_GROWTH_GRAPH_EXCEL.png)
+![Weekly Sales Growth](images/SALES_GROWTH_GRAPH_EXCEL.png)
 
-![Shelf Productivity Velocity](VELOCITY_GRAPH_EXCEL.png)
+![Shelf Productivity Velocity](images/VELOCITY_GRAPH_EXCEL.png)
 
 ---
 
@@ -39,13 +39,13 @@ To scale this audit for weekly performance tracking, I developed a modular **ETL
 * **Type-Casting Schema**: Implemented a transformation layer to convert string-based currency data into **Double-precision** numbers for computational accuracy.
 * **Calculated Metrics**: Engineered an automated "Shelf Efficiency" logic layer and conditional performance status categories.
 
-![Ingestion Step](Alteryx_Step1_Ingestion.png)
+![Ingestion Step](images/Alteryx_Step1_Ingestion.png)
 
-![Data Transformation](Alteryx_Step2_Data_Types.png)
+![Data Transformation](images/Alteryx_Step2_Data_Types.png)
 
-![Automated Logic](Alteryx_Step3_Formula_Logic.png)
+![Automated Logic](images/Alteryx_Step3_Formula_Logic.png)
 
-![Final ETL Workflow](Alteryx_Step4_Final_Workflow.png)
+![Final ETL Workflow](images/Alteryx_Step4_Final_Workflow.png)
 
 ---
 
