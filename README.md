@@ -18,9 +18,9 @@ Leveraging my background in **Mathematics and Statistics**, I modeled 52 weeks o
 ### Platform Validation
 Data was extracted and validated using the **NIQ Byzzer** retail analytics platform.
 
-![NIQ Byzzer Dashboard](images/Byzzer_Trend_Report_Visual_Dashboard8.png)
+![NIQ Byzzer Dashboard](images/byzzer_dashboard.png)
 
-![NIQ Byzzer Setup](images/final_report_parameters_review7.png)
+![NIQ Byzzer Setup](images/byzzer_dashboard2.png)
 
 ### Visual Analysis (Excel)
 The analysis identified a massive **+296.2% growth peak** in mid-June and a **44% seasonal decline** in shelf productivity by January.
